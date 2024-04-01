@@ -16,7 +16,7 @@ export default function CallToAction() {
           className="rounded-tl-xl rounded-bl-none"
         >
           <a
-            href="https://ashishthotwe07-d2kevh6v5-ashishthotwe07.vercel.app/"
+            href="https://ashishthotwe07-c77ofo3ra-ashishthotwe07.vercel.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
